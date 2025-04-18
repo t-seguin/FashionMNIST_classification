@@ -1,0 +1,8 @@
+logs/
+logs/**
+.venv/
+.venv/**
+.history/
+.history/**
+*.pdf
+__pycache__/
